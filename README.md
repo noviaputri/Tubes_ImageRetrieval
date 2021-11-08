@@ -1,1 +1,1 @@
-# Tubes_ImageRetrieval
+# Image Retrieval
